@@ -20,13 +20,15 @@ Easily manage your daily tasks — add, edit, complete, or delete them.
 ---
 
 ## ▶️ How to Run
-1. Clone the repository  
+Since this repo only contains the **`lib/` folder**, follow these steps:
+1. Create a new Flutter project  
    ```bash
-   git clone <your-repo-url>
-   cd <repo-folder>
-2. Get dependencies
+   flutter create todo_app
+   cd todo_app
+2. Delete the default **`lib/` folder** and replace it with the **`lib/` folder** from this repo.
+3. Get dependencies (if needed):
    ```bash
    flutter pub get
-3. Run the app
-   ```bash
-   flutter run
+4. Run the app:
+    ```bash
+    flutter run
