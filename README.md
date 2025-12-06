@@ -13,7 +13,8 @@ Easily manage your daily tasks — add, edit, complete, or delete them.
 
 ---
 
-## 🛠️ Tech Stack<br> [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)<br> [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)<br>
+## 🛠️ Tech Stack
+ [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)<br> [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)<br>
 
 ---
 
