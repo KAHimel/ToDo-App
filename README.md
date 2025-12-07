@@ -35,3 +35,11 @@ Since this repo only contains the **`lib/` folder**, follow these steps:
 4. Run the app:
     ```bash
     flutter run
+
+---
+
+## 👤 Author
+
+Kowshik Ahamed Himel. <br>
+BSc in Computer Science & Engineering.
+
