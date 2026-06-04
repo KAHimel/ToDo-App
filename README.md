@@ -1,45 +1,117 @@
-# 📝 ToDo App (Flutter)
+# 📝 Flutter ToDo App UI
 
-A clean and simple **ToDo list app** built with Flutter 🚀  
-Easily manage your daily tasks — add, edit, complete, or delete them.
+A simple and responsive Flutter ToDo application UI built using basic Flutter widgets and layout components.
 
----
+This project demonstrates:
 
-## ✨ Features
-- ➕ Add new tasks  
-- ✏️ Edit existing tasks  
-- ✅ Mark tasks as completed  
-- ❌ Delete tasks with confirmation  
-
----
-
-## 🛠️ Tech Stack
- [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)<br> [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)<br>
+* Scaffold & AppBar
+* ToDo item list design
+* ListView layout
+* Custom UI using Container, Row, and Column
+* ElevatedButton styling
+* Responsive Flutter layout
+* Clean and beginner-friendly Flutter structure
 
 ---
 
-## ▶️ How to Run
-Since this repo only contains the **`lib/` folder**, follow these steps:
+## 📱 Features
 
-1. Create a new Flutter project  
-   ```bash
-   flutter create todo_app
-   cd todo_app
+✅ ToDo List UI
 
-2. Delete the default **`lib/` folder** and replace it with the **`lib/` folder** from this repo.
+✅ Add Task Button UI
 
-3. Get dependencies (if needed):
-   ```bash
-   flutter pub get
+✅ Edit Task Interaction UI
 
-4. Run the app:
-    ```bash
-    flutter run
+✅ Completed Task State
+
+✅ Delete Task UI
+
+✅ Scrollable List using ListView
+
+✅ Responsive and Clean Design
+
+✅ UI-Only Implementation
 
 ---
 
-## 👤 Author
+## 🛠️ Technologies Used
 
-Kowshik Ahamed Himel. <br>
-BSc in Computer Science & Engineering.
+* Flutter
+* Dart
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/KAHimel/ToDo-App.git
+```
+
+### 2. Navigate to project folder
+
+```bash
+cd ToDo-App
+```
+
+### 3. Install dependencies
+
+```bash
+flutter pub get
+```
+
+### 4. Run the app
+
+```bash
+flutter run
+```
+
+---
+
+## 🎯 Project Objective
+
+This project is built as a clean Flutter UI demonstration for managing tasks.
+
+### Requirements Completed
+
+* Implemented a responsive ToDo list UI.
+* Used required Flutter widgets:
+  * Scaffold
+  * AppBar
+  * ListView
+  * Container
+  * Row
+  * Column
+  * ElevatedButton
+  * Text
+  * Icon
+* Created reusable ToDo item UI components.
+* Built a clean and responsive user interface.
+* Displayed multiple ToDo items using a scrollable list.
+* UI-only implementation with no backend, database, or navigation logic.
+
+---
+
+## 📸 UI Preview
+
+The application displays:
+
+* ToDo list cards
+* Task title and description
+* Completed status visuals
+* Add task button UI
+* Scrollable list layout
+
+---
+
+## 👨‍💻 Author
+
+### Kowshik Ahamed Himel
+
+---
+
+## 📄 License
+
+This project is created for learning and academic purposes only.
 
